@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on jfryusef.xyz</title>
+    <link>https://jfryusef.xyz/posts/</link>
+    <description>Recent content in Posts on jfryusef.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Dec 2024 21:40:29 +0330</lastBuildDate><atom:link href="https://jfryusef.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://jfryusef.xyz/posts/my-first-post/</link>
+      <pubDate>Fri, 27 Dec 2024 21:40:29 +0330</pubDate>
+      
+      <guid>https://jfryusef.xyz/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;the quick brown fox jumps over the lazy dog.&lt;/p&gt;
+&lt;p&gt;THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.&lt;/p&gt;
+&lt;p&gt;1234567890&lt;/p&gt;
+&lt;p&gt;!@#$%^&amp;amp;*()-=_+[]{};&amp;rsquo;:&amp;quot;,./&amp;lt;&amp;gt;?`~&lt;/p&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;the quick brown fox jumps over the lazy dog.&lt;/p&gt;
+&lt;p&gt;THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.&lt;/p&gt;
+&lt;p&gt;1234567890&lt;/p&gt;
+&lt;p&gt;!@#$%^&amp;amp;*()-=_+[]{};&amp;rsquo;:&amp;quot;,./&amp;lt;&amp;gt;?`~&lt;/p&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

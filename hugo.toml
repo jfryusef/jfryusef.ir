@@ -1,0 +1,4 @@
+baseURL = 'https://jfryusef.xyz/'
+languageCode = 'en-us'
+title = 'jfryusef.xyz'
+theme = 'terminal'
